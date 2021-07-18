@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Build Builds</title>
+    <description>Live Life and Build Builds</description>
+    <link>https://buildbuilds.com/</link>
+    <atom:link href="https://buildbuilds.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 19 Jul 2021 03:35:15 +0800</pubDate>
+    <lastBuildDate>Mon, 19 Jul 2021 03:35:15 +0800</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Building the World&#39;s First Emoji Passwords</title>
+        <description>&lt;video width=&quot;80%&quot; preload=&quot;auto&quot; autoplay=&quot;&quot; loop=&quot;&quot; muted=&quot;&quot; poster=&quot;/assets/media/builds/1/buildiful_identiji_explainer_cover.png&quot;&gt;
+  &lt;source src=&quot;/assets/media/builds/1/buildiful_identiji_explainer.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;We are ecstatic to share our new invention: The world’s first emoji-infused passwords 🤖🔒&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Available for downloading soon on &lt;a href=&quot;https://identiji.com&quot;&gt;identiji.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 11 Jul 2021 09:01:24 +0800</pubDate>
+        <link>https://buildbuilds.com/builds/1/</link>
+        <guid isPermaLink="true">https://buildbuilds.com/builds/1/</guid>
+        
+        <category>builds</category>
+        
+        
+        <category>builds</category>
+        
+      </item>
+    
+  </channel>
+</rss>
